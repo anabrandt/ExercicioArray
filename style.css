@@ -1,0 +1,54 @@
+*{
+    padding: 1%;
+    background-color: #dab1d1;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 36px;
+    text-align: center;
+}
+
+formitens{
+    align-items: center;
+}
+
+input{
+    border-radius: 5px;
+
+    
+}
+
+button {
+    background-color: #fff;
+    border: none;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    width: 15%;
+    height: 40px;
+    border-radius: 5px;
+    margin: 1.5rem 0 0 0;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+
+.rodape {
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    color: #000000;
+    background-color: #dab1d1;
+    padding: 1rem 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
